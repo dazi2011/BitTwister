@@ -65,18 +65,8 @@ All strategies are non‑destructive when *Keep original* is enabled.
 
 ---
 
----
 
-## 📜 Changelog (excerpt)
 
-### 1.1.0  ·  2025‑07‑11
-
-* Recovery Mode upload + confirmation alert
-* New settings sections for corruption & recovery paths
-* Bold section headers for greater readability
-* Safer write routing & richer log filtering
-
----
 
 ## 🤝 Contributing
 
